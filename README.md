@@ -30,3 +30,5 @@ Below are Screenshot of GUI of the System.
 ![Smote_LR](https://github.com/komalk216/Credit-Card-Fraud-Detection/assets/68997780/293317f6-f60a-496e-98f3-3e52f4741cfa)
 
 ![Random_SVM](https://github.com/komalk216/Credit-Card-Fraud-Detection/assets/68997780/a5de0d59-571f-4bb7-b3d4-101db910c6a2)
+![Random_SVM (2)](https://github.com/komalk216/Credit-Card-Fraud-Detection/assets/68997780/2f2c7001-f376-4739-8f69-8fd063c0dba7)
+
