@@ -3,18 +3,18 @@ This repository includes the implementation of our BE project title "Credit Card
 
 After performing exploratory data analysis(refer EDA_CCFD.ipynb in this repo) we understand that dataset is highly imbalance .So we decide to create 4 different model by using different method for data imbalance handling and Model training and also we decided to perform feature selection using chi2
 These Four models are  
-      1.Oversampling and LR (SMOTE_LR_GUI.ipynb)
-      2.Oversampling and SVM
-      3.Undersampling and LR
-      4.Undersampling and SVM (Random_SVM_GUI.ipynb)
+      1. Oversampling and LR (SMOTE_LR_GUI.ipynb)
+      2. Oversampling and SVM
+      3. Undersampling and LR
+      4. Undersampling and SVM (Random_SVM_GUI.ipynb)
       
 Depending on our implementation and result and analysis we conclude that LR performs better with Oversampling while SVM performs better with undersampling.We have created GUI for these both model.The major steps involved in this implementation are
-      1.Loading dataset
-      2.Data Preprocessing
-      3.Data Imbalance handling
-      4.Feature Extraction
-      5.Model training and testing
-      6.Result and Analysis
+      1. Loading dataset
+      2. Data Preprocessing
+      3. Data Imbalance handling
+      4. Feature Extraction
+      5. Model training and testing
+      6. Result and Analysis
 We have created GUI using tkinter in which we have fetch the record from testing dataset which we defined during splitting of our dataset into training and testing
 this is done by using index of the transaction and on clicking button "Detect transaction type" window will display whether the transaction is fraud or not.
 
